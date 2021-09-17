@@ -1,4 +1,4 @@
-# Image-Classification-Using-MobileNet 
+# Image-Classification-Using-MobileNet  
 Object and Image Prediction [ Artificial Intelligence ]
  
 #Part 1
